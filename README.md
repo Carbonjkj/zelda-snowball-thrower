@@ -2,7 +2,8 @@
 
 Automatically throws snowballs in The Legend of Zelda: Breath of the Wild by emulating a controller on a Teensy++ v2.0
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udo8mv5oarg/0.jpg)](https://www.youtube.com/watch?v=udo8mv5oarg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/udo8mv5oarg/0.jpg)](https://www.youtube.com/watch?v=udo8mv5oarg) 
+![All the money in the world](./img/screenshot01.png)
 
 A full writeup is [here](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8).
 
